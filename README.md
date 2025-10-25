@@ -48,6 +48,8 @@
 <img width="450" alt="instalaciones d" src="https://github.com/user-attachments/assets/4d9b4bbd-395e-40df-aee7-dc29107d35fd" />
 
 <p>Los niveles de señal obtenidos son suficientes para garantizar la visibilidad constante de los canales SH y HD.</p>
+<img width="450" alt="resultado a" src="https://github.com/user-attachments/assets/8a8f002b-3489-48f5-85d0-dbef93c5f06d" />
+<img width="450" alt="resultado b" src="https://github.com/user-attachments/assets/0bd2fb26-2d2a-47a2-a5ae-34e3cc13fc38" />
 
 
 <h2>Rendimientos</h2>
@@ -64,6 +66,7 @@ Santiago Orellana <br><br>
 Email: <a href="mailto: tecnochago@gmail.com?Subject=Quiero%20un%20bot%20de%20trading"> tecnochago@gmail.com</a>
 Whatsapp: <a href="https://wa.me/5354635944?text=Quiero contratar tus servicios">+5354635944</a><br><br>
 La Habana, Cuba, 2016 - 2025
+
 
 
 
