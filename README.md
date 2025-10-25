@@ -16,7 +16,7 @@
 
 
 <h2>Modelos de antenas</h2>
-<p>En el proceso de adaptación de los diseños a los materiale que se pueden conseguir en al región surgieron diversos modelos de antenas, de los cuales los más destacados fueron los DiLOOP.</p>
+<p>En el proceso de adaptación de los diseños a los materiale que se pueden conseguir en al región surgieron diversos modelos de antenas, de los cuales se destacaron los DiLOOP por su ganancia, facilidad de instalación y disponibilidad de materiales para su construcción.</p>
 
 <img width="450" alt="antenas1" src="https://github.com/user-attachments/assets/3d70cf04-debd-4ba9-ae4c-44c5525d8ea3" />  
 <img width="450" alt="antenas b" src="https://github.com/user-attachments/assets/25810655-b890-4c92-b714-d840a97cf89e" /><br>
@@ -58,6 +58,7 @@
 
 
 <p></p>
+
 
 
 
