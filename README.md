@@ -8,17 +8,20 @@
 
 <h2>Taller, construcción y herramientas de instalación</h2>
 <p></p>
-<img width="431" alt="taller" src="https://github.com/user-attachments/assets/4aee9be0-994f-440c-91f7-13025a84d0a3" />
+<img width="625" alt="taller" src="https://github.com/user-attachments/assets/85b7330a-c298-4f69-b553-beb02dcdeddf" />
 
 <h2>Modelos de antenas</h2>
 <p></p>
-<img width="450" alt="antenas1" src="https://github.com/user-attachments/assets/23721b2a-9f0a-49c1-9aa5-24b050918b29" /><br>
-<img width="450" alt="antenas b" src="https://github.com/user-attachments/assets/4209e0bf-2199-48f3-9e2c-776695a6c60c" /><br>
-<img width="450" alt="antenas2" src="https://github.com/user-attachments/assets/f76bb7d8-f944-46a4-ba41-1d93ab03811c" /><br>
-<img width="450" alt="antenas3" src="https://github.com/user-attachments/assets/f18b1170-b19a-46a8-9add-9f8ebefc21cc" /><br>
+
+<img width="450" alt="antenas1" src="https://github.com/user-attachments/assets/3d70cf04-debd-4ba9-ae4c-44c5525d8ea3" /><br>
+<img width="450" alt="antenas b" src="https://github.com/user-attachments/assets/25810655-b890-4c92-b714-d840a97cf89e" /><br>
+<img width="450" alt="antenas2" src="https://github.com/user-attachments/assets/78648a0f-5970-4094-a189-c20ba6d02aed" /><br>
+<img width="450" alt="antenas3" src="https://github.com/user-attachments/assets/2fd829bc-4106-4024-b3e2-e14c2e49e5e4" /><br>
+
 <p>Modelos más recientes...</p>
-<img width="450" alt="antenas4" src="https://github.com/user-attachments/assets/24541df1-3da4-49d2-a877-138eb1403e35" /><br>
-<img width="450" alt="antenas5" src="https://github.com/user-attachments/assets/15a66a77-e642-47de-a634-89f0c556fcb2" /><br>
+
+<img width="450" alt="antenas4" src="https://github.com/user-attachments/assets/d47ff91a-fab3-4c20-a1a2-79fac2b573a6" /><br>
+<img width="450" alt="antenas5" src="https://github.com/user-attachments/assets/1132b647-46df-4bf3-bb52-9250bafa5e96" /><br>
 
 
 
@@ -26,9 +29,8 @@
 <p>Para atender a más clientes fue necesario incorporar otros instaladores de antenas, los cuales fueron jóvenes a los que se les presentó el negocio y decidieron tomar un pequeño curso de formación durante 5 días. Las presentaciones utilizadas para impartir la segunda edición del curso de 2021 estan como formato PDF en el directorio "Curso para Instaladores de antenas". Gracias al curso, el negocio llegó a tener un total de 4 tecnicos activos dando servicio de instalación en toda La Habana, y a cada uno de ellos se les asignó una mochila con las herramientas necesarias para realizar la instalación, antenas, conectores, cable coaxial y los otros materiales necesarios.</p>
 
 <p>Inicialmente la estructura del negocio consistía en tener un número de telefono a donde llaman los cliente y el gestor asigna los trabajos a los instaladores de antenas. </p>
-<img width="450" alt="modelo1" src="https://github.com/user-attachments/assets/05b5875d-9eb6-440d-919c-f91a72c7d75e" />  
-<img width="450" alt="modelo2" src="https://github.com/user-attachments/assets/40e5188b-7b4b-41a6-9d76-af2be89b7309" />
-
+<img width="450" alt="modelo1" src="https://github.com/user-attachments/assets/e3b192d7-1316-43b2-8bb3-4602b8c21310" /> 
+<img width="450" alt="modelo2" src="https://github.com/user-attachments/assets/54f1aa53-7502-4cf1-bdf7-e74e588884fb" />
 
 
 <h2>Instalaciones</h2>
@@ -39,9 +41,12 @@
 
 <h2>Rendimientos</h2>
 <p></p>
-<img width="450" alt="estadisticas2016" src="https://github.com/user-attachments/assets/5ecfa65f-9b7f-4db9-a76b-8d6cb3cecbd2" />
+c590e8-2a41-4c71-a6f8-cdb74de791c5" />
 
-<img width="450" height="614" alt="estadisticasTodas" src="https://github.com/user-attachments/assets/40c590e8-2a41-4c71-a6f8-cdb74de791c5" />
+<img width="450" alt="estadisticas2016" src="https://github.com/user-attachments/assets/07c2372e-03b9-4e20-9563-8c96031b3bb2" />  
+<img width="450" alt="estadisticasTodas" src="https://github.com/user-attachments/assets/eebf44b5-60be-4ecb-ac29-9fe2b39eb2bd" />
+
+
 
 
 <p></p>
@@ -49,5 +54,6 @@
 
 
 <p></p>
+
 
 
