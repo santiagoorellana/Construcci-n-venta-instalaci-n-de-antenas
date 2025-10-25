@@ -3,12 +3,14 @@
 
 <h2>Inicio con clientela creciente</h2>
 <p>En 2016 inicie un negocio de Construcción, venta e instalación de antenas. Luego pedí una licencia para ejercer como autónomo (Trabajador por Cuenta Propia) en La Habana, como Vendedor e Instalador de Antenas de Radio y Televisión. </p>
-<img width="431" alt="portada" src="https://github.com/user-attachments/assets/fa8c781b-c67d-4e4e-af99-50117f06434e" />
+<img width="450" alt="portada" src="https://github.com/user-attachments/assets/fa8c781b-c67d-4e4e-af99-50117f06434e" />
 
 
 <h2>Taller, construcción y herramientas de instalación</h2>
 <p>Inicialmente las antenas fueron construidas con herramientas simples y materiales recuperados, pero fue necesario aumentar la velocidad de producción y la cantidad, para tener disponibilidad de antenas y no desatender el servicio de instalación. Para ello se compraron motores de antiguas lavadoras de la URSS que son muy populares por su alta durabilidad y se construyeron máquinas lijadoras, desbastadoras y cortadoras. Se compró un taladro electrico y un soporte vertical para el taladro al cuál se le adaptó en la base un sistema de plantillas deslizante que garantizaba la correcta alineación de los huecos donde se insertaban las varillas de las antenas tipo YAGUI. Con la máquina cortadora se picaban los tubos plásticos de PVC que forman el cuerpo aislante de las antenas, se lijaban los bordes con las máquinas lijadoras y con el taladro vertical se le hacian los huecos y averturas necesarios según el modelo de antena. Las varillas de las antenas eran fabricadas con cables de aluminio trensado, los cuales luego eran enderezados con un procedimiento de torción con estiramiento opteniendo al final varillas perfectamente rectas de 4 milímetros de diámetro. Con una herramienta fabricada específicamente para cortar las varillas, se picaban las varillas de los dipolos, directores y reflectores al tamaño específico y luego con las lijadoras se les daba terminación a las puntas. Finalmente se ensamblan las antenas de forma manual utilizando tornillos y en algunos modelos se insertaban las varillas a preción dentro del cuerpo de PVC con una tecnica artesanal muy efectiva.</p>
-<img width="625" alt="taller" src="https://github.com/user-attachments/assets/85b7330a-c298-4f69-b553-beb02dcdeddf" />
+<img width="450" alt="taller" src="https://github.com/user-attachments/assets/14bc5da2-da43-4719-a02c-717c0307d545" />  
+<img width="450" alt="taller2" src="https://github.com/user-attachments/assets/c1276e36-0eb4-4449-b4ef-3b6296a55a4e" />
+
 
 <p>Como se mencionó anteriormente, para la construcción de las antenas se emplearon materiales que debian ser procesados hasta conseguir darles la forma adecuada para la construcción de las antenas. A falta de un mercado mayorista en la región donde se pudiesen conseguir materiales tales como planchas de PVC, de acrílicos y tambien por la no viabilidad de crear la infraestructura para fundir y moldear las partes de las antenas con plástico, se optó por obtener los materiales preconformados. Este enfoque ayudaría a saltar etapas de la construcción, pero tambien necesita que se modifiquen los diseños de antenas o se hagan nuevos. Entre los materiales utilizados para fabricar las antenas se encuentran tuberías de PVC de las empleadas en plomería desde media pulgada hasta las de 110 milímetros, canaletas de PVC para montajes superficiales de cableado electrico, cajas electricas y embases plásticos producidos por los fabricantes de utilcilios domesticos que se encuentran en la región (fabricante de La Cuevita y La Guinera)</p>
 
@@ -56,6 +58,7 @@
 
 
 <p></p>
+
 
 
 
