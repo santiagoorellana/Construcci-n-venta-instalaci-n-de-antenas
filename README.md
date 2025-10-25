@@ -47,19 +47,19 @@
 <p></p>
 
 <h2>Rendimientos</h2>
-<p></p>
-
+<p>El negocio inició con un capital mínimo de aproximadamente 45 USD, utilizando materiales reciclados, tornillos recuperados de equipos electrónicos antiguos y un mínimo de herramientas básicas manuales. Luego se reinvirtieron las ganancias hasta hacer crecer el negocio que en ese momento no contaba con instaladores de antenas y el transporte público se podía utilizar para ir a la casa de los clientes a instalar. En febrero de 2016 las ganancias fueron negativas porque se realizó la inversió inicial, la cual no se pudo recuperar ese miso mes. Como resultado, en el primer año las ganancias mensuales crecieron desde aproximadamente 5 USD en enero de 2016 hasta 230 USD en diciembre del mismo año, lo cual equivale a un crecimiento del 4600 %. Es decir, que las ganancias de diciembre de 2016 fueron 46 veces mayores que las del inicio del negocio en enero. </p>
 <img width="450" alt="estadisticas2016" src="https://github.com/user-attachments/assets/07c2372e-03b9-4e20-9563-8c96031b3bb2" />  
+
+<p>En los años siguientes el negocio siguió creciendo aunque con un descenso en 2020 debido a la pandemia de la Covid19 con dificultó el transporte en La Habana y la mayoría de los potenciales clientes evitaron tener visitas de tecnicos en las casas. Aún así, el negocio se recuperó para 2021 aunque con grandes dificultades porque en el país se realizó un cambio de moneda que provocó una inflación. 
 <img width="450" alt="estadisticasTodas" src="https://github.com/user-attachments/assets/eebf44b5-60be-4ecb-ac29-9fe2b39eb2bd" />
+  
+Devido a la inflación continua, el encarecimiento de los materiales y el transporte, a partir del 2021 fue necesario mayor esfuerzo para mantener funcionando el negocio. A eso se le suma que la inflación ha continuado a una velocidad mayor que la rapidez con que los potenciales clientes ajustan su barrera psicológica a los nuevos niveles de precios que aceptan pagar, por lo que han escaseado los cliente. Tambien se debe tener en cuenta que en la mayoría de los hogares de La Habana se han cambiado ya la televisión ananlógica por la digital y al no ser ya una novedad, ya no existe la avalancha de clientes que existía al inicio del negocio. </p>
 
 
 
 
 <p></p>
 
-
-
-<p></p>
 
 
 
