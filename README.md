@@ -13,7 +13,8 @@
 
 
 <p>Como se mencionó anteriormente, para la construcción de las antenas se emplearon materiales que debian ser procesados hasta conseguir darles la forma adecuada para la construcción de las antenas. A falta de un mercado mayorista en la región donde se pudiesen conseguir materiales tales como planchas de PVC, de acrílicos y tambien por la no viabilidad de crear la infraestructura para fundir y moldear las partes de las antenas con plástico, se optó por obtener los materiales preconformados. Este enfoque ayudaría a saltar etapas de la construcción, pero tambien necesita que se modifiquen los diseños de antenas o se hagan nuevos. Entre los materiales utilizados para fabricar las antenas se encuentran tuberías de PVC de las empleadas en plomería desde media pulgada hasta las de 110 milímetros, canaletas de PVC para montajes superficiales de cableado electrico, cajas electricas y embases plásticos producidos por los fabricantes de utilcilios domesticos que se encuentran en la región (fabricante de La Cuevita y La Guinera)</p>
-
+<img width="450" alt="materiales a" src="https://github.com/user-attachments/assets/abd5d36e-36e5-4f9b-bfb2-400a064d5896" />
+<img width="450" alt="materiales b" src="https://github.com/user-attachments/assets/ab765254-395d-457c-aa69-8ac072257599" />
 
 <h2>Diversos modelos de antenas</h2>
 <p>En el proceso de adaptación de los diseños a los materiale que se pueden conseguir en al región surgieron diversos modelos de antenas, de los cuales se destacaron los DiLOOP por su ganancia, facilidad de instalación y disponibilidad de materiales para su construcción.</p>
@@ -31,14 +32,7 @@
 
 <h2>Curso para formar Instaladores de Antenas</h2>
 <p>Para atender a más clientes fue necesario incorporar otros instaladores de antenas, los cuales fueron jóvenes a los que se les presentó el negocio y decidieron tomar un pequeño curso de formación durante 5 días y luego con acompañamiento en sus primeras instalaciones. Las presentaciones utilizadas para impartir la segunda edición del curso de 2021 estan como formato PDF en el directorio "Curso para Instaladores de antenas". Gracias al curso, el negocio llegó a tener un total de 4 tecnicos activos dando servicio de instalación en toda La Habana, y a cada uno de ellos se les asignó una mochila con las herramientas necesarias para realizar la instalación, antenas, conectores, cable coaxial y los otros materiales necesarios.</p>
-<img height="250" alt="materiales4" src="https://github.com/user-attachments/assets/ead08497-1297-45e0-bae5-fe7f84bca96a" /> 
-<img height="250" alt="materiales5" src="https://github.com/user-attachments/assets/e39d2ed6-7077-4e9f-b6ae-51f15228b60a" /> 
-<img height="250" alt="materiales8" src="https://github.com/user-attachments/assets/da7ab2f8-38fc-403d-8cff-43092c248d49" /> 
-<img height="250" alt="materiales7" src="https://github.com/user-attachments/assets/bdaa3f1b-4181-4a80-b5ff-26d7622722e1" /><br> 
-<img height="250" alt="materiales6" src="https://github.com/user-attachments/assets/efc276eb-e1de-45bc-9d05-c916b10b8549" /> 
-<img height="250" alt="materiales2" src="https://github.com/user-attachments/assets/28d0d748-ed68-48b5-9bc4-5e45b7bd8b5c" /> 
-<img height="250" alt="materiales3" src="https://github.com/user-attachments/assets/cff96256-b0c7-4083-9665-53d1b6341fbf" /> 
-<img height="250" alt="materiales1" src="https://github.com/user-attachments/assets/2c3eb5fb-e5a3-4268-86ba-1f664eb86e58" /> 
+
 
 <p>Inicialmente la estructura del negocio consistía en tener un número de telefono a donde llaman los cliente y el gestor asigna los trabajos a los instaladores de antenas. Despues del 2020 se experimentó tambien con una estructura más distribuida donde cada tecnico instalador hace publicidad con su número de telefono y atiende a los clientes que les contactan.</p>
 <img width="450" alt="modelo1" src="https://github.com/user-attachments/assets/e3b192d7-1316-43b2-8bb3-4602b8c21310" /> 
@@ -65,6 +59,7 @@
 
 
 <p></p>
+
 
 
 
