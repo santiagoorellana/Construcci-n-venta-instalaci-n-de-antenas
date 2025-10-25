@@ -40,11 +40,14 @@
 <img width="450" alt="modelo2" src="https://github.com/user-attachments/assets/54f1aa53-7502-4cf1-bdf7-e74e588884fb" />
 
 
-<h2>Instalaciones</h2>
-<p></p>
+<h2>Instalaciones y resultados</h2>
+<p>Las antenas que comercializamos son instaladas en diversos lugares de las casas según la altura del lugar, la lejanía del transmisor, el tipo de caja decodificadora y los requerimientos del cliente como la seguridad, la estetica y el costo del cable coaxial. hemor realizado instalaciones en tubos de las azoteas, en las rejas de las ventanas, en paredes exteriores y en interiores de las casas. </p>
+<img width="450" alt="instalaciones a" src="https://github.com/user-attachments/assets/643dc4fa-a577-4ad9-adb8-226d6470ca46" />
+<img width="450" alt="instalaciones b" src="https://github.com/user-attachments/assets/f0c5c444-faa4-409b-8c6a-ed951f8b8b79" />
+<img width="450" alt="instalaciones c" src="https://github.com/user-attachments/assets/40a92205-c65d-475d-b911-9ae5df9c0e65" />
 
-<h2>Resultados</h2>
-<p></p>
+<p>Los niveles de señal obtenidos son suficientes para garantizar la visibilidad constante de los canales SH y HD.</p>
+
 
 <h2>Rendimientos</h2>
 <p>El negocio inició con un capital mínimo de aproximadamente 45 USD, utilizando materiales reciclados, tornillos recuperados de equipos electrónicos antiguos y un mínimo de herramientas básicas manuales. Luego se reinvirtieron las ganancias hasta hacer crecer el negocio que en ese momento no contaba con instaladores de antenas y el transporte público se podía utilizar para ir a la casa de los clientes a instalar. En febrero de 2016 las ganancias fueron negativas porque se realizó la inversió inicial, la cual no se pudo recuperar ese miso mes. Como resultado, en el primer año las ganancias mensuales crecieron desde aproximadamente 5 USD en enero de 2016 hasta 230 USD en diciembre del mismo año, lo cual equivale a un crecimiento del 4600 %. Es decir, que las ganancias de diciembre de 2016 fueron 46 veces mayores que las del inicio del negocio en enero. </p>
@@ -56,10 +59,11 @@
 Devido a la inflación continua, el encarecimiento de los materiales y el transporte, a partir del 2021 fue necesario mayor esfuerzo para mantener funcionando el negocio. A eso se le suma que la inflación ha continuado a una velocidad mayor que la rapidez con que los potenciales clientes ajustan su barrera psicológica a los nuevos niveles de precios que aceptan pagar, por lo que han escaseado los cliente. Tambien se debe tener en cuenta que en la mayoría de los hogares de La Habana se han cambiado ya la televisión ananlógica por la digital y al no ser ya una novedad, no existe la avalancha de clientes que existía al inicio del negocio. </p>
 <br><br>
 
-Santiago Orellana <br>
-Email: <a href="mailto: tecnochago@gmail.com?Subject=Quiero%20un%20bot%20de%20trading"> tecnochago@gmail.com</a><br>
+Santiago Orellana <br><br>
+Email: <a href="mailto: tecnochago@gmail.com?Subject=Quiero%20un%20bot%20de%20trading"> tecnochago@gmail.com</a>
+Whatsapp: <a href="https://wa.me/5354635944?text=Quiero contratar tus servicios">+5354635944</a><br><br>
+La Habana, Cuba, 2016 - 2025
 
-Whatsapp: <a href="https://wa.me/5354635944?text=Quiero contratar tus servicios">+5354635944</a>
 
 
 
