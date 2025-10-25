@@ -13,14 +13,14 @@
 <h2>Modelos de antenas</h2>
 <p></p>
 
-<img width="450" alt="antenas1" src="https://github.com/user-attachments/assets/3d70cf04-debd-4ba9-ae4c-44c5525d8ea3" /><br>
+<img width="450" alt="antenas1" src="https://github.com/user-attachments/assets/3d70cf04-debd-4ba9-ae4c-44c5525d8ea3" />  
 <img width="450" alt="antenas b" src="https://github.com/user-attachments/assets/25810655-b890-4c92-b714-d840a97cf89e" /><br>
-<img width="450" alt="antenas2" src="https://github.com/user-attachments/assets/78648a0f-5970-4094-a189-c20ba6d02aed" /><br>
+<img width="450" alt="antenas2" src="https://github.com/user-attachments/assets/78648a0f-5970-4094-a189-c20ba6d02aed" />  
 <img width="450" alt="antenas3" src="https://github.com/user-attachments/assets/2fd829bc-4106-4024-b3e2-e14c2e49e5e4" /><br>
 
 <p>Modelos más recientes...</p>
 
-<img width="450" alt="antenas4" src="https://github.com/user-attachments/assets/d47ff91a-fab3-4c20-a1a2-79fac2b573a6" /><br>
+<img width="450" alt="antenas4" src="https://github.com/user-attachments/assets/d47ff91a-fab3-4c20-a1a2-79fac2b573a6" /> 
 <img width="450" alt="antenas5" src="https://github.com/user-attachments/assets/1132b647-46df-4bf3-bb52-9250bafa5e96" /><br>
 
 
@@ -41,7 +41,6 @@
 
 <h2>Rendimientos</h2>
 <p></p>
-c590e8-2a41-4c71-a6f8-cdb74de791c5" />
 
 <img width="450" alt="estadisticas2016" src="https://github.com/user-attachments/assets/07c2372e-03b9-4e20-9563-8c96031b3bb2" />  
 <img width="450" alt="estadisticasTodas" src="https://github.com/user-attachments/assets/eebf44b5-60be-4ecb-ac29-9fe2b39eb2bd" />
@@ -54,6 +53,7 @@ c590e8-2a41-4c71-a6f8-cdb74de791c5" />
 
 
 <p></p>
+
 
 
 
