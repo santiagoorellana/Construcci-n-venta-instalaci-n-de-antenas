@@ -32,6 +32,7 @@
 
 <h2>Curso para formar Instaladores de Antenas</h2>
 <p>Para atender a más clientes fue necesario incorporar otros instaladores de antenas, los cuales fueron jóvenes a los que se les presentó el negocio y decidieron tomar un pequeño curso de formación durante 5 días y luego con acompañamiento en sus primeras instalaciones. Las presentaciones utilizadas para impartir la segunda edición del curso de 2021 estan como formato PDF en el directorio "Curso para Instaladores de antenas". Gracias al curso, el negocio llegó a tener un total de 4 tecnicos activos dando servicio de instalación en toda La Habana, y a cada uno de ellos se les asignó una mochila con las herramientas necesarias para realizar la instalación, antenas, conectores, cable coaxial y los otros materiales necesarios.</p>
+<img width="450" alt="tools" src="https://github.com/user-attachments/assets/9947e9da-0875-421e-8261-228ea5f37475" />
 
 
 <p>Inicialmente la estructura del negocio consistía en tener un número de telefono a donde llaman los cliente y el gestor asigna los trabajos a los instaladores de antenas. Despues del 2020 se experimentó tambien con una estructura más distribuida donde cada tecnico instalador hace publicidad con su número de telefono y atiende a los clientes que les contactan.</p>
@@ -59,6 +60,7 @@
 
 
 <p></p>
+
 
 
 
