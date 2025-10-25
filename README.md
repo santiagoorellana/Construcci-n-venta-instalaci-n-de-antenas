@@ -2,7 +2,7 @@
 <h1>Construcción, venta e instalación de antenas</h1>
 
 <h2>Inicio con clientela creciente</h2>
-<p>En 2016 inicie un negocio de Construcción, venta e instalación de antenas. Luego pedí una licencia para ejercer como autónomo (Trabajador por Cuenta Propia) en La Habana, como Vendedor e Instalador de Antenas de Radio y Televisión. </p>
+<p>En 2016 inicie un negocio de Construcción, venta e instalación de antenas. Luego pedí una licencia para ejercer como autónomo (Trabajador por Cuenta Propia) en La Habana, como Vendedor e Instalador de Antenas de Radio y Televisión. En esos momentos los cubanos no teníamos internet en los telefonos y la mayoría de las personas se entretenian con la Telvisión Cubana y con el contenido del "Paquete" que se copiaba de memoria en meoria o mediante discos. El gobierno estaba haciendo propaganda para cambiar la televisión analógica por digital, vendiendo cajas decodificadoras y televisores híbridos en las tiendas en CUC, entregándolos por los centros de trabajo, vendiendo cables coaxiales y conectores e instalando nuevos transmisores de televisión digital en todo el pais. Toda esta propaganda, facilidades y la existencia ya de transmisores en toda la capital provocó un aumento de la demanda de antenas de televisión y el servicio de instalación. Así comence a construir antenas de televisión principalmente, para aprovechar la avalancha de pedidos de los cliente.</p>
 <img width="450" alt="portada" src="https://github.com/user-attachments/assets/fa8c781b-c67d-4e4e-af99-50117f06434e" />
 
 
@@ -66,6 +66,7 @@ Santiago Orellana <br><br>
 Email: <a href="mailto: tecnochago@gmail.com?Subject=Quiero%20un%20bot%20de%20trading"> tecnochago@gmail.com</a>
 Whatsapp: <a href="https://wa.me/5354635944?text=Quiero contratar tus servicios">+5354635944</a><br><br>
 La Habana, Cuba, 2016 - 2025
+
 
 
 
