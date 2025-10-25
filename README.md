@@ -34,7 +34,7 @@
 <img height="250" alt="materiales4" src="https://github.com/user-attachments/assets/ead08497-1297-45e0-bae5-fe7f84bca96a" /> 
 <img height="250" alt="materiales5" src="https://github.com/user-attachments/assets/e39d2ed6-7077-4e9f-b6ae-51f15228b60a" /> 
 <img height="250" alt="materiales8" src="https://github.com/user-attachments/assets/da7ab2f8-38fc-403d-8cff-43092c248d49" /> 
-<img height="250" alt="materiales7" src="https://github.com/user-attachments/assets/bdaa3f1b-4181-4a80-b5ff-26d7622722e1" /> 
+<img height="250" alt="materiales7" src="https://github.com/user-attachments/assets/bdaa3f1b-4181-4a80-b5ff-26d7622722e1" /><br> 
 <img height="250" alt="materiales6" src="https://github.com/user-attachments/assets/efc276eb-e1de-45bc-9d05-c916b10b8549" /> 
 <img height="250" alt="materiales2" src="https://github.com/user-attachments/assets/28d0d748-ed68-48b5-9bc4-5e45b7bd8b5c" /> 
 <img height="250" alt="materiales3" src="https://github.com/user-attachments/assets/cff96256-b0c7-4083-9665-53d1b6341fbf" /> 
@@ -65,6 +65,7 @@
 
 
 <p></p>
+
 
 
 
