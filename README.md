@@ -53,12 +53,14 @@
 <p>En los años siguientes el negocio siguió creciendo aunque con un descenso en 2020 debido a la pandemia de la Covid19 con dificultó el transporte en La Habana y la mayoría de los potenciales clientes evitaron tener visitas de tecnicos en las casas. Aún así, el negocio se recuperó para 2021 aunque con grandes dificultades porque en el país se realizó un cambio de moneda que provocó una inflación. 
 <img width="450" alt="estadisticasTodas" src="https://github.com/user-attachments/assets/eebf44b5-60be-4ecb-ac29-9fe2b39eb2bd" />
   
-Devido a la inflación continua, el encarecimiento de los materiales y el transporte, a partir del 2021 fue necesario mayor esfuerzo para mantener funcionando el negocio. A eso se le suma que la inflación ha continuado a una velocidad mayor que la rapidez con que los potenciales clientes ajustan su barrera psicológica a los nuevos niveles de precios que aceptan pagar, por lo que han escaseado los cliente. Tambien se debe tener en cuenta que en la mayoría de los hogares de La Habana se han cambiado ya la televisión ananlógica por la digital y al no ser ya una novedad, ya no existe la avalancha de clientes que existía al inicio del negocio. </p>
+Devido a la inflación continua, el encarecimiento de los materiales y el transporte, a partir del 2021 fue necesario mayor esfuerzo para mantener funcionando el negocio. A eso se le suma que la inflación ha continuado a una velocidad mayor que la rapidez con que los potenciales clientes ajustan su barrera psicológica a los nuevos niveles de precios que aceptan pagar, por lo que han escaseado los cliente. Tambien se debe tener en cuenta que en la mayoría de los hogares de La Habana se han cambiado ya la televisión ananlógica por la digital y al no ser ya una novedad, no existe la avalancha de clientes que existía al inicio del negocio. </p>
+<br><br>
 
+Santiago Orellana <br>
+Email: <a href="mailto: tecnochago@gmail.com?Subject=Quiero%20un%20bot%20de%20trading"> tecnochago@gmail.com</a><br>
 
+Whatsapp: <a href="https://wa.me/5354635944?text=Quiero contratar tus servicios">+5354635944</a>
 
-
-<p></p>
 
 
 
